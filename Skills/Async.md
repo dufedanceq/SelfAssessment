@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
+  - Event loop👂 heard
   - try..catch
   - Non-blocking
   - Async I/O
