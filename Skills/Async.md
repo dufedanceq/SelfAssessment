@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop👂 heard
+  - Event loop🖐️ used
   - try..catch
   - Non-blocking
   - Async I/O
@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks👂 heard
+  - Callback-last-error-first👂 heard
   - Thenable
-  - Promise
-  - Async/await
+  - Promise👂 heard
+  - Async/await👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event👂 heard
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter🖐️ used
   - Observable/Observer
   - Readable
   - Writable
