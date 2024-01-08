@@ -1,12 +1,12 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value👂 heard
+  - identifier👂 heard
+  - variable👂 heard
+  - constant👂 heard
   - scalar
-  - literal
+  - literal👂 heard
   - expression
   - heap
   - function
@@ -14,7 +14,7 @@
   - method
   - class
   - prototype
-  - event
+  - event👂 heard
   - type
   - primitive types
   - reference types
@@ -22,7 +22,7 @@
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops👂 heard
   - assignment
   - regular expression
   - interface
@@ -30,9 +30,9 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature👂 heard
+  - argument👂 heard
+  - parameter👂 heard
   - pure function
   - lambda expression
   - side effects
@@ -45,7 +45,7 @@
   - listener
   - compose
   - pipe
-  - memoize
+  - memoize👂 heard
   - wrapper
   - functor
   - monad
@@ -67,8 +67,8 @@
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
+  - queue👂 heard
+  - stack👂 heard
   - deque
   - tree
   - graph
@@ -84,16 +84,16 @@
   - polyfill
   - debugger
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
+  - refactoring👂 heard
+  - code review👂 heard
+  - antipatterns👂 heard
   - paradigm
-  - algorithm
+  - algorithm👂 heard
   - magic numbers
-  - hardcode
+  - hardcode👂 heard
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti👂 heard
   - silver bullet
   - not invented here
   - dead code
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git👂 heard
+  - github👂 heard
