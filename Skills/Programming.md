@@ -5,7 +5,7 @@
   - identifier👂 heard
   - variable👂 heard
   - constant👂 heard
-  - scalar
+  - scalar👂 heard
   - literal👂 heard
   - expression
   - heap
