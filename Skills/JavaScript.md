@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object👂 heard
   - this
-  - arrow function
+  - arrow function👂 heard
   - async function
   - call
   - bind
@@ -11,9 +11,9 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof👂 heard
   - destructuring
-  - generator
+  - generator👂 heard
   - iterator
   - async generator
   - async iterator
@@ -41,11 +41,11 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if👂 heard
+  - while👂 heard
+  - do..while👂 heard
+  - for👂 heard
+  - for..in👂 heard
   - for..of
   - for await
   - throw
@@ -66,7 +66,7 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array👂 heard
   - mixin
   - extend
   - typed arrays
@@ -76,14 +76,14 @@
   - null
   - Proxy
   - weak collections
-  - timers
+  - timers👂 heard
   - EventEmitter
   - RegExp
   - Date
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js👂 heard
   - npm
   - prettier
   - MDN

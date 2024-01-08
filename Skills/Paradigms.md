@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -24,7 +24,7 @@
   - constructor
   - new
   - Static method
-  - Method
+  - Method👂 heard
   - Async method
   - Getters, Setters
   - Public fields
@@ -34,7 +34,7 @@
   - Parent class
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface👂 heard
   - Encapsulation
   - Hidden class
   - Object form
@@ -49,7 +49,7 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy👂 heard
   - Chain of Responsibility
   - Command
   - Iterator
