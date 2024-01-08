@@ -16,8 +16,8 @@
   - prototype👂 heard
   - event👂 heard
   - type🖐️ used
-  - primitive types
-  - reference types
+  - primitive types👂 heard
+  - reference types👂 heard
   - flag👂 heard
   - lexical scope👂 heard
   - code block🖐️ used
@@ -63,10 +63,10 @@
   - collection🖐️ used
   - set🖐️ used
   - hash table👂 heard
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
+  - linked list👂 heard
+  - doubly list👂 heard
+  - unrolled list👂 heard
+  - circular list👂 heard
   - queue👂 heard
   - stack👂 heard
   - deque👂 heard
