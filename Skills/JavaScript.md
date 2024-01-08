@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object👂 heard
-  - this
-  - arrow function👂 heard
+  - Object🖐️ used
+  - this🖐️ used
+  - arrow function🖐️ used
   - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof👂 heard
+  - call🖐️ used
+  - bind👂 heard
+  - apply🖐️ used
+  - instanceof👂 heard
+  - ...spread👂 heard
+  - ...rest👂 heard
+  - typeof🖐️ used
   - destructuring
-  - generator👂 heard
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - generator🖐️ used
+  - iterator🖐️ used
+  - async generator🖐️ used
+  - async iterator🖐️ used
+  - chaining👂 heard
+  - optional chaining👂 heard
   - IIFE
-  - global
-  - globalThis
-  - window
+  - global👂 heard
+  - globalThis👂 heard
+  - window👂 heard
   - getters and setters
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - prototype👂 heard
+  - equality operators🖐️ used
+  - logical operators🖐️ used
+  - bitwise operators🖐️ used
+  - ternary operator🖐️ used
+  - void🖐️ used
   - yield
-  - await
+  - await🖐️ used
   - template literal
   - strict mode
   - delete
-  - in
+  - in🖐️ used
   - super
-  - Symbol
+  - Symbol🖐️ used
   - Reflect
 - Statements
-  - if👂 heard
-  - while👂 heard
-  - do..while👂 heard
-  - for👂 heard
-  - for..in👂 heard
+  - if🖐️ used
+  - while🖐️ used
+  - do..while🖐️ used
+  - for🖐️ used
+  - for..in🖐️ used
   - for..of
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break🖐️ used
+  - continue🖐️ used
+  - import👂 heard
+  - export👂 heard
   - label
   - try..catch
-  - switch
-  - class
-  - new Error
+  - switch🖐️ used
+  - class🖐️ used
+  - new Error👂 heard
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration🖐️ used
+  - function expression🖐️ used
+  - return🖐️ used
+  - default parameters👂 heard
   - functional object
 - Data structures
-  - Array👂 heard
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
+  - Array🖐️ used
+  - mixin👂 heard
+  - extend👂 hear
+  - typed arrays👂 heard
+  - Map🖐️ used
+  - Set🖐️ used
+  - undefined🖐️ used
+  - null🖐️ used
+  - Proxy👂 heard
+  - weak collections👂 heard
   - timers👂 heard
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - EventEmitter🖐️ used
+  - RegExp👂 heard
+  - Date👂 heard
+  - BigInt🖐️ used
 - Infrastructure
-  - V8
+  - V8👂 heard
   - Node.js👂 heard
-  - npm
-  - prettier
-  - MDN
+  - npm👂 heard
+  - prettier👂 heard
+  - MDN👂 heard
