@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value👂 heard
-  - identifier👂 heard
-  - variable👂 heard
-  - constant👂 heard
-  - scalar👂 heard
-  - literal👂 heard
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
+  - value🖐️ used
+  - identifier🖐️ used
+  - variable🖐️ used
+  - constant🖐️ used
+  - scalar🖐️ used
+  - literal🖐️ used
+  - expressio👂 heard
+  - heap👂 heard
+  - function🖐️ used
+  - procedure👂 heard
+  - method🖐️ used
+  - class🖐️ used
+  - prototype👂 heard
   - event👂 heard
-  - type
+  - type🖐️ used
   - primitive types
   - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops👂 heard
-  - assignment
+  - flag👂 heard
+  - lexical scope👂 heard
+  - code block🖐️ used
+  - conditions🖐️ used
+  - loops🖐️ used
+  - assignment👂 heard
   - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - interface👂 heard
+  - contract👂 heard
+  - module👂 heard
+  - call stack👂 heard
 - Functions
-  - signature👂 heard
-  - argument👂 heard
-  - parameter👂 heard
-  - pure function
+  - signature🖐️ used
+  - argument🖐️ used
+  - parameter🖐️ used
+  - pure function🖐️ used
   - lambda expression
-  - side effects
-  - closure
+  - side effects👂 heard
+  - closure🖐️ used
   - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize👂 heard
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - curry👂 heard
+  - higher order👂 heard
+  - recursion👂 heard
+  - callback🖐️ used
+  - listener👂 heard
+  - compose👂 heard
+  - pipe👂 heard
+  - memoize🖐️ used
+  - wrapper👂 heard
+  - functor👂 heard
+  - monad👂 heard
+  - monoid👂 heard
+  - generator👂 heard
+  - coroutine👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
+  - array🖐️ used
+  - structure🖐️ used
+  - record👂 heard
+  - enum🖐️ used
+  - instance👂 heard
+  - object🖐️ used
+  - class🖐️ used
+  - collection🖐️ used
+  - set🖐️ used
+  - hash table👂 heard
   - linked list
   - doubly list
   - unrolled list
   - circular list
   - queue👂 heard
   - stack👂 heard
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - deque👂 heard
+  - tree👂 heard
+  - graph👂 heard
+  - iterator👂 heard
+  - mutable state👂 heard
+  - immutable state👂 heard
+  - serialization👂 heard
+  - string parsing👂 heard
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
+  - compiler🖐️ used
+  - transpiler🖐️ used
+  - linter👂 heard
+  - polyfill👂 heard
+  - debugger👂 heard
   - garbage collection
-  - refactoring👂 heard
-  - code review👂 heard
-  - antipatterns👂 heard
-  - paradigm
-  - algorithm👂 heard
+  - refactoring🖐️ used
+  - code review🖐️ used
+  - antipatterns🖐️ used
+  - paradigm👂 heard
+  - algorithm🖐️ used
   - magic numbers
-  - hardcode👂 heard
-  - complexity
+  - hardcode🖐️ used
+  - complexity👂 heard
   - decomposition
-  - spaghetti👂 heard
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git👂 heard
-  - github👂 heard
+  - spaghetti🖐️ used
+  - silver bullet👂 heard
+  - not invented here👂 heard
+  - dead code👂 heard
+  - unreachable code👂 heard
+  - duplicate code👂 heard
+  - exception👂 heard
+  - return early👂 heard
+  - unittest👂 heard
+  - git🖐️ used
+  - github🖐️ used
