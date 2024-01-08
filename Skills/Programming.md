@@ -92,7 +92,7 @@
   - magic numbers
   - hardcode🖐️ used
   - complexity👂 heard
-  - decomposition
+  - decomposition👂 heard
   - spaghetti🖐️ used
   - silver bullet👂 heard
   - not invented here👂 heard
