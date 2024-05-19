@@ -2,22 +2,22 @@
 
 - Theory
   - Event loop🖐️ used
-  - try..catch
+  - try..catch👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
-  - Pattern Reactor
+  - Pattern Reactor👂 heard
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports
+  - Event ports👂 heard
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Dead locks👂 heard
+  - Live locks👂 heard
+  - Concurrent programming👂 heard
+  - Parallel programming👂 heard
   - Actor Model
   - Thread
   - Process
@@ -29,35 +29,35 @@
   - Async/await👂 heard
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator👂 heard
+  - Async Generator👂 heard
+  - Async Iterator👂 heard
   - Event👂 heard
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal👂 heard
+  - Stream👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify👂 heard
+  - promisify👂 heard
+  - asyncify👂 heard
   - callbacks compose
-  - async compose
+  - async compose👂 heard
 - Async abstractions interfaces
   - EventEmitter🖐️ used
   - Observable/Observer
-  - Readable
-  - Writable
+  - Readable👂 heard
+  - Writable👂 heard
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue👂 heard
   - Async Collector
   - Semaphore
   - Mutex
-  - Spin Lock
+  - Spin Lock👂 heard
 - JavaScript & Node.js specific
   - Timers
   - setImmediate
