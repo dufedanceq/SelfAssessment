@@ -3,40 +3,40 @@
 - Theory
   - Procedural programming
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Structured programming👂 heard
+  - Non-structured programming👂 heard
+  - Functional programming👂 heard
   - Prototype-based programming
   - Object-oriented programming👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming👂 heard
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor👂 heard
+  - new👂 heard
   - Static method
   - Method👂 heard
-  - Async method
+  - Async method👂 heard
   - Getters, Setters
   - Public fields
-  - Private fields
+  - Private fields👂 heard
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
+  - Parent class👂 heard
+  - Polymorphism👂 heard
   - Abstract class
   - Interface👂 heard
   - Encapsulation
-  - Hidden class
+  - Hidden class👂 heard
   - Object form
   - instance
   - Introspection
