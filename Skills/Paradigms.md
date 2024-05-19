@@ -52,7 +52,7 @@
   - Proxy👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator🖐️ used
   - State
   - Bridge
   - Builder
