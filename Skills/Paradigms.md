@@ -1,58 +1,58 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
+  - Procedural programming👂 heard
+  - Imperative programming👂 heard
+  - Structured programming👂 heard
+  - Non-structured programming👂 heard
+  - Functional programming👂 heard
+  - Prototype-based programming👂 heard
   - Object-oriented programming👂 heard
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Object-based programming👂 heard
+  - Generic programming👂 heard
+  - Concurrent computing👂 heard
+  - Asyncronous programming👂 heard
+  - Parallel programming👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming👂 heard
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor👂 heard
+  - new👂 heard
   - Static method
   - Method👂 heard
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
+  - Async method👂 heard
+  - Getters, Setters👂 heard
+  - Public fields👂 heard
+  - Private fields👂 heard
+  - Field declarations👂 heard
   - Inheritance
-  - Parent class
-  - Polymorphism
+  - Parent class👂 heard
+  - Polymorphism👂 heard
   - Abstract class
   - Interface👂 heard
   - Encapsulation
-  - Hidden class
+  - Hidden class👂 heard
   - Object form
   - instance
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Singleton👂 heard
+  - Factory Method👂 heard
+  - Abstract Factory👂 heard
+  - Adapter👂 heard
+  - Observer👂 heard
+  - Strategy👂 heard
+  - Facade👂 heard
   - Proxy👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator🖐️ used
   - State
   - Bridge
   - Builder
