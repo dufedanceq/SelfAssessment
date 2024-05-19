@@ -7,25 +7,25 @@
   - constant🖐️ used
   - scalar🖐️ used
   - literal🖐️ used
-  - expressio👂 heard
-  - heap👂 heard
+  - expressio🖐️ used
+  - heap🖐️ used
   - function🖐️ used
-  - procedure👂 heard
+  - procedure🖐️ used
   - method🖐️ used
   - class🖐️ used
   - prototype👂 heard
-  - event👂 heard
+  - event🖐️ used
   - type🖐️ used
   - primitive types👂 heard
   - reference types👂 heard
-  - flag👂 heard
+  - flag🖐️ used
   - lexical scope👂 heard
   - code block🖐️ used
   - conditions🖐️ used
   - loops🖐️ used
   - assignment👂 heard
   - regular expression
-  - interface👂 heard
+  - interface🖐️ used
   - contract👂 heard
   - module👂 heard
   - call stack👂 heard
@@ -46,7 +46,7 @@
   - compose👂 heard
   - pipe👂 heard
   - memoize🖐️ used
-  - wrapper👂 heard
+  - wrapper🖐️ used
   - functor👂 heard
   - monad👂 heard
   - monoid👂 heard
@@ -63,16 +63,16 @@
   - collection🖐️ used
   - set🖐️ used
   - hash table👂 heard
-  - linked list👂 heard
+  - linked list🖐️ used
   - doubly list👂 heard
   - unrolled list👂 heard
   - circular list👂 heard
-  - queue👂 heard
-  - stack👂 heard
-  - deque👂 heard
-  - tree👂 heard
-  - graph👂 heard
-  - iterator👂 heard
+  - queue🖐️ used
+  - stack🖐️ used
+  - deque🖐️ used
+  - tree🖐️ used
+  - graph🖐️ used
+  - iterator🖐️ used
   - mutable state👂 heard
   - immutable state👂 heard
   - serialization👂 heard
@@ -80,9 +80,9 @@
 - Process & style
   - compiler🖐️ used
   - transpiler🖐️ used
-  - linter👂 heard
+  - linter🖐️ used
   - polyfill👂 heard
-  - debugger👂 heard
+  - debugger🖐️ used
   - garbage collection
   - refactoring🖐️ used
   - code review🖐️ used
