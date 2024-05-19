@@ -4,7 +4,7 @@
   - Object🖐️ used
   - this🖐️ used
   - arrow function🖐️ used
-  - async function
+  - async function🖐️ used
   - call🖐️ used
   - bind👂 heard
   - apply🖐️ used
@@ -19,52 +19,52 @@
   - async iterator🖐️ used
   - chaining👂 heard
   - optional chaining👂 heard
-  - IIFE
+  - IIFE👂 heard
   - global👂 heard
   - globalThis👂 heard
   - window👂 heard
-  - getters and setters
-  - __proto__
+  - getters and setters🖐️ used
+  - __proto__👂 heard
   - prototype👂 heard
   - equality operators🖐️ used
   - logical operators🖐️ used
   - bitwise operators🖐️ used
   - ternary operator🖐️ used
   - void🖐️ used
-  - yield
+  - yield👂 heard
   - await🖐️ used
   - template literal
-  - strict mode
-  - delete
+  - strict mode🖐️ used
+  - delete🖐️ used
   - in🖐️ used
-  - super
+  - super👂 heard
   - Symbol🖐️ used
-  - Reflect
+  - Reflect👂 heard
 - Statements
   - if🖐️ used
   - while🖐️ used
   - do..while🖐️ used
   - for🖐️ used
   - for..in🖐️ used
-  - for..of
-  - for await
-  - throw
+  - for..of🖐️ used
+  - for await🖐️ used
+  - throw👂 heard
   - break🖐️ used
   - continue🖐️ used
-  - import👂 heard
+  - import🖐️ used
   - export👂 heard
-  - label
-  - try..catch
+  - label👂 heard
+  - try..catch👂 heard
   - switch🖐️ used
   - class🖐️ used
   - new Error👂 heard
-  - with
+  - with👂 heard
 - Functions
   - function declaration🖐️ used
   - function expression🖐️ used
   - return🖐️ used
   - default parameters👂 heard
-  - functional object
+  - functional object👂 heard
 - Data structures
   - Array🖐️ used
   - mixin👂 heard
@@ -76,7 +76,7 @@
   - null🖐️ used
   - Proxy👂 heard
   - weak collections👂 heard
-  - timers👂 heard
+  - timers🖐️ used
   - EventEmitter🖐️ used
   - RegExp👂 heard
   - Date👂 heard
@@ -85,5 +85,5 @@
   - V8👂 heard
   - Node.js👂 heard
   - npm👂 heard
-  - prettier👂 heard
+  - prettier🖐️ used
   - MDN👂 heard
